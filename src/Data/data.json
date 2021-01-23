@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "class": 9,
+    "subject": "Maths",
+    "faculty": "Mr. Maths",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a nisi maximus, molestie tortor non, dignissim dolor. In eleifend non ante ac elementum. Etiam semper nec erat a lobortis. Maecenas elit risus, fermentum sit amet enim a, faucibus dignissim augue. Vestibulum semper erat eleifend molestie eleifend.",
+    "image": "https://picsum.photos/id/1/200/300",
+    "topics style": "['Number System', 'Polynomials', 'Coordinate Geometry', 'Linear equations in two variable', 'Introduction to Euclid System', 'Triangles']"
+  },
+  {
+    "id": 2,
+    "class": 9,
+    "subject": "Science",
+    "faculty": "Mr. Science",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a nisi maximus, molestie tortor non, dignissim dolor. In eleifend non ante ac elementum. Etiam semper nec erat a lobortis. Maecenas elit risus, fermentum sit amet enim a, faucibus dignissim augue. Vestibulum semper erat eleifend molestie eleifend.",
+    "image": "https://picsum.photos/id/2/200/300",
+    "topics style": "['Matter in Our Surrounding','Is matter arround us pure','Atoms and Molecules','Structure of Atom',' The fundamental unit of life','Tissues']"
+  },
+  {
+    "id": 3,
+    "class": 9,
+    "subject": "English",
+    "faculty": "Mr. English",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a nisi maximus, molestie tortor non, dignissim dolor. In eleifend non ante ac elementum. Etiam semper nec erat a lobortis. Maecenas elit risus, fermentum sit amet enim a, faucibus dignissim augue. Vestibulum semper erat eleifend molestie eleifend.",
+    "image": "https://picsum.photos/id/3/200/300",
+    "topics style": "['Reading Comprehension','Writing Skill and Grammar','Literature Textbook and Supplementary Reading Text']"
+  },
+  {
+    "id": 4,
+    "class": 10,
+    "subject": "Maths",
+    "faculty": "Mr. Maths",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a nisi maximus, molestie tortor non, dignissim dolor. In eleifend non ante ac elementum. Etiam semper nec erat a lobortis. Maecenas elit risus, fermentum sit amet enim a, faucibus dignissim augue. Vestibulum semper erat eleifend molestie eleifend.",
+    "image": "https://picsum.photos/id/4/200/300",
+    "topics style": "['Number System', 'Polynomials', 'Coordinate Geometry', 'Linear equations in two variable', 'Introduction to Euclid System', 'Triangles']"
+  },
+  {
+    "id": 5,
+    "class": 10,
+    "subject": "Science",
+    "faculty": "Mr. Science",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a nisi maximus, molestie tortor non, dignissim dolor. In eleifend non ante ac elementum. Etiam semper nec erat a lobortis. Maecenas elit risus, fermentum sit amet enim a, faucibus dignissim augue. Vestibulum semper erat eleifend molestie eleifend.",
+    "image": "https://picsum.photos/id/5/200/300",
+    "topics style": "['Matter in Our Surrounding','Is matter arround us pure','Atoms and Molecules','Structure of Atom',' The fundamental unit of life','Tissues']"
+  },
+  {
+    "id": 6,
+    "class": 10,
+    "subject": "English",
+    "faculty": "Mr. English",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a nisi maximus, molestie tortor non, dignissim dolor. In eleifend non ante ac elementum. Etiam semper nec erat a lobortis. Maecenas elit risus, fermentum sit amet enim a, faucibus dignissim augue. Vestibulum semper erat eleifend molestie eleifend.",
+    "image": "https://picsum.photos/id/6/200/300",
+    "topics style": "['Reading Comprehension','Writing Skill and Grammar','Literature Textbook and Supplementary Reading Text']"
+  }
+]
